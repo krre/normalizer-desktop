@@ -1,6 +1,6 @@
-# Normalizer
+# Normalizer Desktop
 
-IDE for [Norm](https://github.com/krre/norm) programming language.
+Desktop IDE for [Norm](https://github.com/krre/norm) programming language.
 
 ## Dependencies
 - Qt 6.9.2
